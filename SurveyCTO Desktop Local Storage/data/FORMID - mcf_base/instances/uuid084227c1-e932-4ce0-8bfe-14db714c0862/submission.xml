@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mcf_base durationMillis="295790" extra_parameters="" id="mcf_base" instanceID="uuid:084227c1-e932-4ce0-8bfe-14db714c0862" isComplete="true" lastDurationOffset="1653911030948" lastPosition="endOfForm" manifest="{&quot;binaries&quot;:{&quot;TA_084227c1-e932-4ce0-8bfe-14db714c0862.csv&quot;:&quot;\/mcf_base\/text_audit[1]&quot;}}" markedAsCompleteDate="2022-05-30T11:44:00.845Z" re-audit="text_audit" speedAuditedFields="" submissionDate="2022-05-30T11:44:00.845Z" validated="true" version="2205301337" xmlns="http://opendatakit.org/submissions">
+  <starttime>2022-05-30T13:38:55.158+02</starttime>
+  <endtime>2022-05-30T13:43:50.942+02</endtime>
+  <deviceid>DC9BD7CE-BA7B-485D-A1C0-A1AB39783D3C</deviceid>
+  <subscriberid/>
+  <simid/>
+  <devicephonenum/>
+  <username>rutwe (not yet authenticated)</username>
+  <text_audit>TA_084227c1-e932-4ce0-8bfe-14db714c0862.csv</text_audit>
+  <duration>296</duration>
+  <gender>1</gender>
+  <education_level>4</education_level>
+  <marital_status>1</marital_status>
+  <menu>2 3 4</menu>
+  <unemployment>Hggf</unemployment>
+  <age>12</age>
+  <height>12.4</height>
+  <meta>
+    <instanceID>uuid:084227c1-e932-4ce0-8bfe-14db714c0862</instanceID>
+  </meta>
+</mcf_base>

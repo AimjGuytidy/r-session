@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mcf_base_home durationMillis="111681" extra_parameters="" id="mcf_base_home" instanceID="uuid:ebb07d58-600a-407a-bcd8-839a4689c5ec" isComplete="true" lastDurationOffset="1654091317714" lastPosition="endOfForm" manifest="{&quot;binaries&quot;:{&quot;TA_ebb07d58-600a-407a-bcd8-839a4689c5ec.csv&quot;:&quot;instance(MCF Baseline)\/mcf_base_home\/text_audit[1]&quot;}}" markedAsCompleteDate="2022-06-01T13:49:33.435Z" re-audit="text_audit" speedAuditedFields="" submissionDate="2022-06-01T13:49:33.435Z" validated="true" version="2205311542" xmlns="http://opendatakit.org/submissions">
+  <starttime>2022-06-01T15:46:46.032+02</starttime>
+  <endtime>2022-06-01T15:48:37.711+02</endtime>
+  <deviceid>DC9BD7CE-BA7B-485D-A1C0-A1AB39783D3C</deviceid>
+  <subscriberid/>
+  <simid/>
+  <devicephonenum/>
+  <username>rutwe</username>
+  <text_audit>TA_ebb07d58-600a-407a-bcd8-839a4689c5ec.csv</text_audit>
+  <duration>112</duration>
+  <sec_a>
+    <sec_a_note/>
+    <sec_a_note1/>
+    <mob_id>Bvfhj</mob_id>
+    <mob_name>Vcghh</mob_name>
+    <int_date>2022-06-05</int_date>
+  </sec_a>
+  <sec_b>
+    <sec_b_note/>
+    <resp_name>Bvcfh</resp_name>
+    <gender>1</gender>
+    <phone_num>Vffuhj</phone_num>
+    <province>Bffhjjj</province>
+    <district>Bvffj</district>
+    <sector>Bffhj</sector>
+    <cell>Hgff</cell>
+    <village>Ugffy</village>
+    <age>33</age>
+    <region>1</region>
+  </sec_b>
+  <sec_c>
+    <sec_c_note/>
+    <employment>1</employment>
+    <activities>1</activities>
+    <curr_sit>2</curr_sit>
+    <disab_sit>1</disab_sit>
+  </sec_c>
+  <meta>
+    <instanceID>uuid:ebb07d58-600a-407a-bcd8-839a4689c5ec</instanceID>
+  </meta>
+</mcf_base_home>

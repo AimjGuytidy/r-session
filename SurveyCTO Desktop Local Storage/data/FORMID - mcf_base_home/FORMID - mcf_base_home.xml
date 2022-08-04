@@ -1,0 +1,639 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:odk="http://www.opendatakit.org/xforms" xmlns:orx="http://openrosa.org/xforms/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>MCF Baseline</h:title>
+    <model>
+      <itext>
+        <translation lang=" kinyarwanda">
+          <text id="/mcf_base_home/sec_c/curr_sit/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/sec_c_note:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/village:label">
+            <value>q3.8</value>
+          </text>
+          <text id="/mcf_base_home/sec_a/sec_a_note:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect:label">
+            <value>q4.4</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/gender/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/specify_0:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/gender/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/gender:label">
+            <value>q3.2</value>
+          </text>
+          <text id="/mcf_base_home/sec_a/int_date:label">
+            <value>III.</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect/98:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/4:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit/4:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/sector:label">
+            <value>q3.6</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/sec_b_note:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/phone_num:label">
+            <value>q3.3</value>
+          </text>
+          <text id="/mcf_base_home/sec_a:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit/5:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/region:label">
+            <value>q3.10</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/employment/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/activities/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_a/mob_id:label">
+            <value>I.</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit/6:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/specify_1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/employment/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/activities:label">
+            <value>q4.2</value>
+          </text>
+          <text id="/mcf_base_home/sec_a/sec_a_note1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/5:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/6:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/region/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/province:label">
+            <value>q3.4</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/age:label">
+            <value>q3.9</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/98:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/cell:label">
+            <value>q3.7</value>
+          </text>
+          <text id="/mcf_base_home/sec_a/mob_name:label">
+            <value>II.</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_b:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect/4:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/disab_sit/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/disab_sit/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/employment:label">
+            <value>q4.1</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res:label">
+            <value>q4.5</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/resp_name:label">
+            <value>q3.1</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/district:label">
+            <value>q3.5</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/disab_sit:label">
+            <value>q4.6</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/region/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit:label">
+            <value>q4.3</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/activities/2:label">
+            <value>-</value>
+          </text>
+        </translation>
+        <translation lang=" engl">
+          <text id="/mcf_base_home/sec_c/curr_sit/1:label">
+            <value>Employee</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/sec_c_note:label">
+            <value>Workers
+4. Employment/</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/gender/1:label">
+            <value>Male</value>
+          </text>
+          <text id="/mcf_base_home/sec_a/sec_a_note:label">
+            <value>1. Introduction
+Hello! My name is /…………………/ 
+I am from Vanguard Economics Ltd (a research company based in Kigali). We are doing mobilization for an upcoming baseline survey for a program called Young Africa Works being implemented by the Mastercard Foundation. 
+I would like to talk to you as a youth and gather some relevant information about your employment status, education, and entrepreneurial activities or aspirations. The information you share will be useful to assess whether you may qualify as a respondent for the baseline survey.
+Voluntary Participation 
+Your decision to participate in this session is voluntary and there is no compensation, pay of any kind you receive as reward though your contribution to it is valuable. You may stop participating in the interview at any time that you wish without losing any of your rights.
+Confidentiality
+All information regarding you and your employment and education will be kept confidential and anonymous, and your name will not be linked to your personal information. The information you provide will not be shared with any other parties beyond you, Vanguard Economics Ltd and the team working on this study. 
+Length 
+The session will not exceed 10 minutes. 
+Consent 
+Feel free to ask any questions before we start the conversation. (Try to make the respondent comfortable enough with the interview. Answer questions raised by the interviewee and if you doubt the answer, contact your field supervisor for support). If you are fine with participating in this interview, let’s start.</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/3:label">
+            <value>I am still looking for a job (job seeker)</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect/3:label">
+            <value>Education</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit/6:label">
+            <value>Contributing family worker</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/gender/2:label">
+            <value>Female</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit/2:label">
+            <value>Paid apprentice/Internee</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/specify_0:label">
+            <value>Please specify…</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/village:label">
+            <value>q3.8 Village:</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit/4:label">
+            <value>Own account worker (without regular employees)</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/gender:label">
+            <value>q3.2 Gender:</value>
+          </text>
+          <text id="/mcf_base_home/sec_a/int_date:label">
+            <value>III. Date of the interview:</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect/98:label">
+            <value>Other (Specify)</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/4:label">
+            <value>I am NOT looking for a job (non-job seeker)</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/employment/1:label">
+            <value>Yes</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/sector:label">
+            <value>q3.6 Sector:</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/sec_b_note:label">
+            <value>3. Basic Information</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect/2:label">
+            <value>Tourism and Hospitality</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/phone_num:label">
+            <value>q3.3 Phone number:</value>
+          </text>
+          <text id="/mcf_base_home/sec_a:label">
+            <value>Introduction</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit/5:label">
+            <value>Member of cooperative</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/region:label">
+            <value>q3.10 Geographical entity:</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/activities/2:label">
+            <value>No</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/activities/1:label">
+            <value>Yes</value>
+          </text>
+          <text id="/mcf_base_home/sec_a/mob_id:label">
+            <value>I. ID:</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/region/2:label">
+            <value>Rural</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/specify_1:label">
+            <value>Please specify…</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/employment/2:label">
+            <value>No</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/activities:label">
+            <value>q4.2 During the past 7 days, did you run or do any kind of business, farming, or other activity to generate income, if only for one hour</value>
+          </text>
+          <text id="/mcf_base_home/sec_a/sec_a_note1:label">
+            <value>2. Mobilizer Information</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/5:label">
+            <value>PWD (People with Disability)</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/6:label">
+            <value>Sick/chronical illness</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect/1:label">
+            <value>Agriculture</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/2:label">
+            <value>Student</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/region/1:label">
+            <value>Urban</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/age:label">
+            <value>q3.9 Age:</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/98:label">
+            <value>Other (Specify)</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/cell:label">
+            <value>q3.7 Cell:</value>
+          </text>
+          <text id="/mcf_base_home/sec_a/mob_name:label">
+            <value>II. Full Name:</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res/1:label">
+            <value>Temporarily absent from work</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit/3:label">
+            <value>Employer (with regular employees)</value>
+          </text>
+          <text id="/mcf_base_home/sec_b:label">
+            <value>Basic Information</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect/4:label">
+            <value>ICT (Digital Economy)</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/bus_sect:label">
+            <value>q4.4 if c or d or e to q4.3, which sector does your business belong to?</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/disab_sit/1:label">
+            <value>Yes</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/disab_sit/2:label">
+            <value>No</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/employment:label">
+            <value>q4.1 During the last 7 days, did you do any work for wage, salary, commissions, tips, or any other pay, in cash or in-kind, even if only for one hour? (Including paid internship)</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/unemp_res:label">
+            <value>q4.5 If No, in q4.1. and q4.2, Is there any specific reason why you do not have a job or occupation?</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/resp_name:label">
+            <value>q3.1 Names of the Respondent</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/district:label">
+            <value>q3.5 District:</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/disab_sit:label">
+            <value>q4.6 Do you live with any type of disability?</value>
+          </text>
+          <text id="/mcf_base_home/sec_b/province:label">
+            <value>q3.4 Province:</value>
+          </text>
+          <text id="/mcf_base_home/sec_c/curr_sit:label">
+            <value>q4.3 if yes to q4.1 or q4.2 what is your current situation?</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <mcf_base_home id="mcf_base_home" version="2205311542">
+          <starttime/>
+          <endtime/>
+          <deviceid/>
+          <subscriberid/>
+          <simid/>
+          <devicephonenum/>
+          <username/>
+          <text_audit/>
+          <duration/>
+          <sec_a>
+            <sec_a_note/>
+            <sec_a_note1/>
+            <mob_id/>
+            <mob_name/>
+            <int_date/>
+          </sec_a>
+          <sec_b>
+            <sec_b_note/>
+            <resp_name/>
+            <gender/>
+            <phone_num/>
+            <province/>
+            <district/>
+            <sector/>
+            <cell/>
+            <village/>
+            <age/>
+            <region/>
+          </sec_b>
+          <sec_c>
+            <sec_c_note/>
+            <employment/>
+            <activities/>
+            <curr_sit/>
+            <bus_sect/>
+            <specify_0/>
+            <unemp_res/>
+            <specify_1/>
+            <disab_sit/>
+          </sec_c>
+          <meta>
+            <instanceID/>
+          </meta>
+        </mcf_base_home>
+      </instance>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/mcf_base_home/starttime" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/mcf_base_home/endtime" type="dateTime"/>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/mcf_base_home/deviceid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="subscriberid" nodeset="/mcf_base_home/subscriberid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="simserial" nodeset="/mcf_base_home/simid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="phonenumber" nodeset="/mcf_base_home/devicephonenum" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="username" nodeset="/mcf_base_home/username" type="string"/>
+      <bind appearance="class=textAudit;p=100" nodeset="/mcf_base_home/text_audit" type="binary"/>
+      <bind calculate="duration()" nodeset="/mcf_base_home/duration" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_a/sec_a_note" original="note" readonly="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_a/sec_a_note1" original="note" readonly="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_a/mob_id" required="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_a/mob_name" required="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_a/int_date" required="true()" type="date"/>
+      <bind nodeset="/mcf_base_home/sec_b/sec_b_note" original="note" readonly="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_b/resp_name" required="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_b/gender" required="true()" type="select1"/>
+      <bind nodeset="/mcf_base_home/sec_b/phone_num" required="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_b/province" required="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_b/district" required="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_b/sector" required="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_b/cell" required="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_b/village" required="true()" type="string"/>
+      <bind constraint=".&gt;=16 and .&lt;=35" jr:constraintMsg="please don't go above the youth age" nodeset="/mcf_base_home/sec_b/age" required="true()" type="int"/>
+      <bind nodeset="/mcf_base_home/sec_b/region" required="true()" type="select1"/>
+      <bind nodeset="/mcf_base_home/sec_c/sec_c_note" original="note" readonly="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_c/employment" required="true()" type="select1"/>
+      <bind nodeset="/mcf_base_home/sec_c/activities" required="true()" type="select1"/>
+      <bind nodeset="/mcf_base_home/sec_c/curr_sit" relevant=" /mcf_base_home/sec_c/employment =1 or
+ /mcf_base_home/sec_c/activities =1" required="true()" type="select1"/>
+      <bind nodeset="/mcf_base_home/sec_c/bus_sect" relevant=" /mcf_base_home/sec_c/curr_sit  = 3 or 
+ /mcf_base_home/sec_c/curr_sit  = 4 or 
+ /mcf_base_home/sec_c/curr_sit  = 5" required="true()" type="select1"/>
+      <bind nodeset="/mcf_base_home/sec_c/specify_0" relevant=" /mcf_base_home/sec_c/bus_sect =98" required="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_c/unemp_res" relevant=" /mcf_base_home/sec_c/employment =2 and
+ /mcf_base_home/sec_c/activities =2" required="true()" type="select"/>
+      <bind nodeset="/mcf_base_home/sec_c/specify_1" relevant="selected( /mcf_base_home/sec_c/unemp_res ,98)" required="true()" type="string"/>
+      <bind nodeset="/mcf_base_home/sec_c/disab_sit" required="true()" type="select1"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/mcf_base_home/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <group ref="/mcf_base_home/sec_a">
+      <label ref="jr:itext('/mcf_base_home/sec_a:label')"/>
+      <input ref="/mcf_base_home/sec_a/sec_a_note">
+        <label ref="jr:itext('/mcf_base_home/sec_a/sec_a_note:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_a/sec_a_note1">
+        <label ref="jr:itext('/mcf_base_home/sec_a/sec_a_note1:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_a/mob_id">
+        <label ref="jr:itext('/mcf_base_home/sec_a/mob_id:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_a/mob_name">
+        <label ref="jr:itext('/mcf_base_home/sec_a/mob_name:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_a/int_date">
+        <label ref="jr:itext('/mcf_base_home/sec_a/int_date:label')"/>
+      </input>
+    </group>
+    <group ref="/mcf_base_home/sec_b">
+      <label ref="jr:itext('/mcf_base_home/sec_b:label')"/>
+      <input ref="/mcf_base_home/sec_b/sec_b_note">
+        <label ref="jr:itext('/mcf_base_home/sec_b/sec_b_note:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_b/resp_name">
+        <label ref="jr:itext('/mcf_base_home/sec_b/resp_name:label')"/>
+      </input>
+      <select1 ref="/mcf_base_home/sec_b/gender">
+        <label ref="jr:itext('/mcf_base_home/sec_b/gender:label')"/>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_b/gender/1:label')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_b/gender/2:label')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <input ref="/mcf_base_home/sec_b/phone_num">
+        <label ref="jr:itext('/mcf_base_home/sec_b/phone_num:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_b/province">
+        <label ref="jr:itext('/mcf_base_home/sec_b/province:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_b/district">
+        <label ref="jr:itext('/mcf_base_home/sec_b/district:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_b/sector">
+        <label ref="jr:itext('/mcf_base_home/sec_b/sector:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_b/cell">
+        <label ref="jr:itext('/mcf_base_home/sec_b/cell:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_b/village">
+        <label ref="jr:itext('/mcf_base_home/sec_b/village:label')"/>
+      </input>
+      <input ref="/mcf_base_home/sec_b/age">
+        <label ref="jr:itext('/mcf_base_home/sec_b/age:label')"/>
+      </input>
+      <select1 ref="/mcf_base_home/sec_b/region">
+        <label ref="jr:itext('/mcf_base_home/sec_b/region:label')"/>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_b/region/1:label')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_b/region/2:label')"/>
+          <value>2</value>
+        </item>
+      </select1>
+    </group>
+    <group ref="/mcf_base_home/sec_c">
+      <input ref="/mcf_base_home/sec_c/sec_c_note">
+        <label ref="jr:itext('/mcf_base_home/sec_c/sec_c_note:label')"/>
+      </input>
+      <select1 ref="/mcf_base_home/sec_c/employment">
+        <label ref="jr:itext('/mcf_base_home/sec_c/employment:label')"/>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/employment/1:label')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/employment/2:label')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select1 ref="/mcf_base_home/sec_c/activities">
+        <label ref="jr:itext('/mcf_base_home/sec_c/activities:label')"/>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/activities/1:label')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/activities/2:label')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select1 ref="/mcf_base_home/sec_c/curr_sit">
+        <label ref="jr:itext('/mcf_base_home/sec_c/curr_sit:label')"/>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/curr_sit/1:label')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/curr_sit/2:label')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/curr_sit/3:label')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/curr_sit/4:label')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/curr_sit/5:label')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/curr_sit/6:label')"/>
+          <value>6</value>
+        </item>
+      </select1>
+      <select1 ref="/mcf_base_home/sec_c/bus_sect">
+        <label ref="jr:itext('/mcf_base_home/sec_c/bus_sect:label')"/>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/bus_sect/1:label')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/bus_sect/2:label')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/bus_sect/3:label')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/bus_sect/4:label')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/bus_sect/98:label')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <input ref="/mcf_base_home/sec_c/specify_0">
+        <label ref="jr:itext('/mcf_base_home/sec_c/specify_0:label')"/>
+      </input>
+      <select ref="/mcf_base_home/sec_c/unemp_res">
+        <label ref="jr:itext('/mcf_base_home/sec_c/unemp_res:label')"/>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/unemp_res/1:label')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/unemp_res/2:label')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/unemp_res/3:label')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/unemp_res/4:label')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/unemp_res/5:label')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/unemp_res/6:label')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/unemp_res/98:label')"/>
+          <value>98</value>
+        </item>
+      </select>
+      <input ref="/mcf_base_home/sec_c/specify_1">
+        <label ref="jr:itext('/mcf_base_home/sec_c/specify_1:label')"/>
+      </input>
+      <select1 ref="/mcf_base_home/sec_c/disab_sit">
+        <label ref="jr:itext('/mcf_base_home/sec_c/disab_sit:label')"/>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/disab_sit/1:label')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/mcf_base_home/sec_c/disab_sit/2:label')"/>
+          <value>2</value>
+        </item>
+      </select1>
+    </group>
+  </h:body>
+</h:html>

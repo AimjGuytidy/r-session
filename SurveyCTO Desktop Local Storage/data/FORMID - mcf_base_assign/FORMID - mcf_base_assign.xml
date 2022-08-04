@@ -1,0 +1,835 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:odk="http://www.opendatakit.org/xforms" xmlns:orx="http://openrosa.org/xforms/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>MCF Baseline</h:title>
+    <model>
+      <itext>
+        <translation lang=" kinyarwanda">
+          <text id="/mcf_base_assign/var_q17/4:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/10:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q5/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q1/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q9/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q7/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q7:label">
+            <value>q7</value>
+          </text>
+          <text id="/mcf_base_assign/var_q1/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/9:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q10/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q3:label">
+            <value>q3</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/6:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q15:label">
+            <value>q15</value>
+          </text>
+          <text id="/mcf_base_assign/var_q9/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q3/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/5:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q7/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q15/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q14:label">
+            <value>q14</value>
+          </text>
+          <text id="/mcf_base_assign/var_q12:label">
+            <value>q12</value>
+          </text>
+          <text id="/mcf_base_assign/var_q4/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/6:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q16:label">
+            <value>q16</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/5:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q3/4:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q2/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/7:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q15/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/12:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q8/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q2/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q4:label">
+            <value>q4</value>
+          </text>
+          <text id="/mcf_base_assign/var_q14/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q5/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/8:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q5/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/15:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q14/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/11:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q10:label">
+            <value>q10</value>
+          </text>
+          <text id="/mcf_base_assign/var_q6:label">
+            <value>q6</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q2/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/8:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17:label">
+            <value>q17</value>
+          </text>
+          <text id="/mcf_base_assign/var_q4/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q9:label">
+            <value>q9</value>
+          </text>
+          <text id="/mcf_base_assign/var_q3/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q13:label">
+            <value>q13</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q8:label">
+            <value>q8</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/7:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q16/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q1/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/13:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q10/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q3/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q16/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q9/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/14:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q7/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q8/1:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q10/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q5:label">
+            <value>q5</value>
+          </text>
+          <text id="/mcf_base_assign/var_q4/3:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q1:label">
+            <value>q1</value>
+          </text>
+          <text id="/mcf_base_assign/var_q2:label">
+            <value>q2</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/2:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/4:label">
+            <value>-</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11:label">
+            <value>q11</value>
+          </text>
+          <text id="/mcf_base_assign/var_q8/2:label">
+            <value>-</value>
+          </text>
+        </translation>
+        <translation lang=" engl">
+          <text id="/mcf_base_assign/var_q17/4:label">
+            <value>Soil fertility</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/10:label">
+            <value>Ploughing requirements</value>
+          </text>
+          <text id="/mcf_base_assign/var_q5/3:label">
+            <value>OTHER</value>
+          </text>
+          <text id="/mcf_base_assign/var_q1/1:label">
+            <value>Option A</value>
+          </text>
+          <text id="/mcf_base_assign/var_q9/3:label">
+            <value>2012</value>
+          </text>
+          <text id="/mcf_base_assign/var_q7/2:label">
+            <value>2013</value>
+          </text>
+          <text id="/mcf_base_assign/var_q7:label">
+            <value>q7 Of the last three farming seasons, which season had the MOST total rainfall?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q1/2:label">
+            <value>Option B</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/9:label">
+            <value>Fertilizer requirements</value>
+          </text>
+          <text id="/mcf_base_assign/var_q10/3:label">
+            <value>2012</value>
+          </text>
+          <text id="/mcf_base_assign/var_q3:label">
+            <value>q3 I will list three options. These options are 
+hypothetical situations, meaning we will not 
+actually be giving you any money. We just 
+want you to answer the question based on 
+what you would do if this were a real situation. 
+
+Option A: You receive 20 GHC immediately
+Option B: You receive 30 GHC in two weeks
+Option C: You receive 50 GHC in three months
+
+Which option would you choose?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/15:label">
+            <value>Other (SPECIFY)</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/6:label">
+            <value>Cannot predict</value>
+          </text>
+          <text id="/mcf_base_assign/var_q15:label">
+            <value>q15 Compared to others, are you willing to take risks with your money?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q9/2:label">
+            <value>2013</value>
+          </text>
+          <text id="/mcf_base_assign/var_q3/2:label">
+            <value>Option B</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/5:label">
+            <value>Tradition (family always plants same crops)</value>
+          </text>
+          <text id="/mcf_base_assign/var_q7/1:label">
+            <value>2014</value>
+          </text>
+          <text id="/mcf_base_assign/var_q15/2:label">
+            <value>No</value>
+          </text>
+          <text id="/mcf_base_assign/var_q3/3:label">
+            <value>Option C</value>
+          </text>
+          <text id="/mcf_base_assign/var_q12:label">
+            <value>q12 In the next ten years, how many dry or drought years do you expect?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q4/1:label">
+            <value>Option A</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/6:label">
+            <value>Neighbor’s success with crop</value>
+          </text>
+          <text id="/mcf_base_assign/var_q5/2:label">
+            <value>Option B</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/5:label">
+            <value>Very Bad</value>
+          </text>
+          <text id="/mcf_base_assign/var_q3/4:label">
+            <value>OTHER</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/7:label">
+            <value>Only God knows</value>
+          </text>
+          <text id="/mcf_base_assign/var_q10/2:label">
+            <value>2013</value>
+          </text>
+          <text id="/mcf_base_assign/var_q14:label">
+            <value>q14 Compared to others, are you willing to take risks on lots of things?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q8/3:label">
+            <value>2012</value>
+          </text>
+          <text id="/mcf_base_assign/var_q2/3:label">
+            <value>OTHER</value>
+          </text>
+          <text id="/mcf_base_assign/var_q4:label">
+            <value>q4 You have two fertilizer options. The two fertilizers cost the same price. 
+
+Option A: If you buy organic fertilizer, you have a 60% chance of getting high yield. 
+Option B: If you buy inorganic fertilizer you have a 60% chance of getting high yield. 
+
+Which do you choose?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/12:label">
+            <value>Labor requirements</value>
+          </text>
+          <text id="/mcf_base_assign/var_q14/2:label">
+            <value>No</value>
+          </text>
+          <text id="/mcf_base_assign/var_q5:label">
+            <value>q5 You have a choice between two fertilizers. The fertilizers cost the same price.
+
+ Option A: Fertilizer A will definitely give you 
+the same average maize yield 
+no matter the amount of rain that falls. 
+Option B: Fertilizer B will give you very high yield 
+if there is good rain, 
+but only a small yield if there is bad rain.
+
+Which do you choose?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q16:label">
+            <value>q16 Compared to others, are you willing to take risks on your farm?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/1:label">
+            <value>Rainfall/weather in general</value>
+          </text>
+          <text id="/mcf_base_assign/var_q4/2:label">
+            <value>Option B</value>
+          </text>
+          <text id="/mcf_base_assign/var_q14/1:label">
+            <value>Yes</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/11:label">
+            <value>Water requirements</value>
+          </text>
+          <text id="/mcf_base_assign/var_q10:label">
+            <value>q10 Of the last three farming seasons, which season had the WORST rainfall for your own farms?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17:label">
+            <value>q17 I would like to ask one more time: when deciding what crops to plant each year and on how many acres, what sorts of things do you think about (a tehiri zankpa....)?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q6:label">
+            <value>q6 For how many past farming seasons can you remember specific rainfall amounts?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/8:label">
+            <value>Other (SPECIFY)</value>
+          </text>
+          <text id="/mcf_base_assign/var_q2/1:label">
+            <value>Option A</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/8:label">
+            <value>Price of fertilizer</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/1:label">
+            <value>Excellent</value>
+          </text>
+          <text id="/mcf_base_assign/var_q9:label">
+            <value>q9 Of the last three farming seasons, which season had the BEST rainfall for your own farms?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/2:label">
+            <value>The way a crop will yield with little rain</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/3:label">
+            <value>The way a crop will yield with excess rain</value>
+          </text>
+          <text id="/mcf_base_assign/var_q13:label">
+            <value>q13 In the next ten years, how many wet or flood years do you expect?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/3:label">
+            <value>Normal</value>
+          </text>
+          <text id="/mcf_base_assign/var_q8:label">
+            <value>q8 Of the last three farming seasons, which season had the LEAST total rainfall?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/7:label">
+            <value>Price of seed</value>
+          </text>
+          <text id="/mcf_base_assign/var_q16/1:label">
+            <value>Yes</value>
+          </text>
+          <text id="/mcf_base_assign/var_q1/3:label">
+            <value>OTHER</value>
+          </text>
+          <text id="/mcf_base_assign/var_q16/2:label">
+            <value>No</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/13:label">
+            <value>Market price of crop when harvested</value>
+          </text>
+          <text id="/mcf_base_assign/var_q10/1:label">
+            <value>2014</value>
+          </text>
+          <text id="/mcf_base_assign/var_q5/1:label">
+            <value>Option A</value>
+          </text>
+          <text id="/mcf_base_assign/var_q15/1:label">
+            <value>Yes</value>
+          </text>
+          <text id="/mcf_base_assign/var_q9/1:label">
+            <value>2014</value>
+          </text>
+          <text id="/mcf_base_assign/var_q17/14:label">
+            <value>When the crop is harvested</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11:label">
+            <value>q11 In general terms, how do you expect the rains to fall in the next (2012) farming season?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q8/1:label">
+            <value>2014</value>
+          </text>
+          <text id="/mcf_base_assign/var_q2/2:label">
+            <value>Option B</value>
+          </text>
+          <text id="/mcf_base_assign/var_q3/1:label">
+            <value>Option A</value>
+          </text>
+          <text id="/mcf_base_assign/var_q4/3:label">
+            <value>OTHER</value>
+          </text>
+          <text id="/mcf_base_assign/var_q1:label">
+            <value>q1 Suppose you have a severe pain in your leg.
+You have the choice between two options.
+
+Option A: You can get some medicine that will reduce the pain but will not cure you.
+Option B: You can get surgery that will cure you, however there is a small risk of death.
+
+The medicine and surgery cost the same amount of money. Which option would you choose? You can only choose one.</value>
+          </text>
+          <text id="/mcf_base_assign/var_q2:label">
+            <value>q2 Suppose you have some money to do business, and you have the choice between two business options:
+
+Option A: You sometimes make 100 GHC a month 
+and you sometimes make no money. You cannot predict which month will give you money. 
+Option B: You almost always make 20 GHC a month.
+
+Which option would you choose?</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/2:label">
+            <value>Good</value>
+          </text>
+          <text id="/mcf_base_assign/var_q11/4:label">
+            <value>Bad</value>
+          </text>
+          <text id="/mcf_base_assign/var_q7/3:label">
+            <value>2012</value>
+          </text>
+          <text id="/mcf_base_assign/var_q8/2:label">
+            <value>2013</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <mcf_base_assign id="mcf_base_assign" version="2205301622">
+          <starttime/>
+          <endtime/>
+          <deviceid/>
+          <subscriberid/>
+          <simid/>
+          <devicephonenum/>
+          <username/>
+          <text_audit/>
+          <duration/>
+          <var_q1/>
+          <var_q2/>
+          <var_q3/>
+          <var_q4/>
+          <var_q5/>
+          <var_q6/>
+          <var_q7/>
+          <var_q8/>
+          <var_q9/>
+          <var_q10/>
+          <var_q11/>
+          <var_q12/>
+          <var_q13/>
+          <var_q14/>
+          <var_q15/>
+          <var_q16/>
+          <var_q17/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </mcf_base_assign>
+      </instance>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/mcf_base_assign/starttime" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/mcf_base_assign/endtime" type="dateTime"/>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/mcf_base_assign/deviceid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="subscriberid" nodeset="/mcf_base_assign/subscriberid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="simserial" nodeset="/mcf_base_assign/simid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="phonenumber" nodeset="/mcf_base_assign/devicephonenum" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="username" nodeset="/mcf_base_assign/username" type="string"/>
+      <bind appearance="class=textAudit;p=100" nodeset="/mcf_base_assign/text_audit" type="binary"/>
+      <bind calculate="duration()" nodeset="/mcf_base_assign/duration" type="string"/>
+      <bind nodeset="/mcf_base_assign/var_q1" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q2" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q3" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q4" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q5" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q6" type="int"/>
+      <bind nodeset="/mcf_base_assign/var_q7" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q8" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q9" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q10" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q11" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q12" type="int"/>
+      <bind nodeset="/mcf_base_assign/var_q13" type="int"/>
+      <bind nodeset="/mcf_base_assign/var_q14" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q15" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q16" type="select1"/>
+      <bind nodeset="/mcf_base_assign/var_q17" type="select"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/mcf_base_assign/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <select1 ref="/mcf_base_assign/var_q1">
+      <label ref="jr:itext('/mcf_base_assign/var_q1:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q1/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q1/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q1/3:label')"/>
+        <value>3</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base_assign/var_q2">
+      <label ref="jr:itext('/mcf_base_assign/var_q2:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q2/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q2/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q2/3:label')"/>
+        <value>3</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base_assign/var_q3">
+      <label ref="jr:itext('/mcf_base_assign/var_q3:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q3/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q3/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q3/3:label')"/>
+        <value>3</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q3/4:label')"/>
+        <value>4</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base_assign/var_q4">
+      <label ref="jr:itext('/mcf_base_assign/var_q4:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q4/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q4/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q4/3:label')"/>
+        <value>3</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base_assign/var_q5">
+      <label ref="jr:itext('/mcf_base_assign/var_q5:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q5/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q5/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q5/3:label')"/>
+        <value>3</value>
+      </item>
+    </select1>
+    <input ref="/mcf_base_assign/var_q6">
+      <label ref="jr:itext('/mcf_base_assign/var_q6:label')"/>
+    </input>
+    <select1 ref="/mcf_base_assign/var_q7">
+      <label ref="jr:itext('/mcf_base_assign/var_q7:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q7/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q7/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q7/3:label')"/>
+        <value>3</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base_assign/var_q8">
+      <label ref="jr:itext('/mcf_base_assign/var_q8:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q8/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q8/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q8/3:label')"/>
+        <value>3</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base_assign/var_q9">
+      <label ref="jr:itext('/mcf_base_assign/var_q9:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q9/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q9/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q9/3:label')"/>
+        <value>3</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base_assign/var_q10">
+      <label ref="jr:itext('/mcf_base_assign/var_q10:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q10/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q10/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q10/3:label')"/>
+        <value>3</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base_assign/var_q11">
+      <label ref="jr:itext('/mcf_base_assign/var_q11:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q11/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q11/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q11/3:label')"/>
+        <value>3</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q11/4:label')"/>
+        <value>4</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q11/5:label')"/>
+        <value>5</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q11/6:label')"/>
+        <value>6</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q11/7:label')"/>
+        <value>7</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q11/8:label')"/>
+        <value>8</value>
+      </item>
+    </select1>
+    <input ref="/mcf_base_assign/var_q12">
+      <label ref="jr:itext('/mcf_base_assign/var_q12:label')"/>
+    </input>
+    <input ref="/mcf_base_assign/var_q13">
+      <label ref="jr:itext('/mcf_base_assign/var_q13:label')"/>
+    </input>
+    <select1 ref="/mcf_base_assign/var_q14">
+      <label ref="jr:itext('/mcf_base_assign/var_q14:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q14/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q14/2:label')"/>
+        <value>2</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base_assign/var_q15">
+      <label ref="jr:itext('/mcf_base_assign/var_q15:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q15/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q15/2:label')"/>
+        <value>2</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base_assign/var_q16">
+      <label ref="jr:itext('/mcf_base_assign/var_q16:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q16/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q16/2:label')"/>
+        <value>2</value>
+      </item>
+    </select1>
+    <select ref="/mcf_base_assign/var_q17">
+      <label ref="jr:itext('/mcf_base_assign/var_q17:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/3:label')"/>
+        <value>3</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/4:label')"/>
+        <value>4</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/5:label')"/>
+        <value>5</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/6:label')"/>
+        <value>6</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/7:label')"/>
+        <value>7</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/8:label')"/>
+        <value>8</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/9:label')"/>
+        <value>9</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/10:label')"/>
+        <value>10</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/11:label')"/>
+        <value>11</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/12:label')"/>
+        <value>12</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/13:label')"/>
+        <value>13</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/14:label')"/>
+        <value>14</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base_assign/var_q17/15:label')"/>
+        <value>15</value>
+      </item>
+    </select>
+  </h:body>
+</h:html>

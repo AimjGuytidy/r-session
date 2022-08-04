@@ -1,0 +1,82 @@
+* 00000003
+*! version 1.0.0
+* Do not erase or edit this file
+* It is used by Stata to track the ado and help
+* files you have installed.
+
+S http://fmwww.bc.edu/repec/bocode/u
+N unique.pkg
+D 15 Jun 2022
+U 1
+d 'UNIQUE': module to report number of unique values in variable(s)
+d 
+d  The command unique without a by reports the number of unique
+d values for the varlist. With a by it does the same, but also
+d creates a new variable (_Unique by default but can be named in
+d the gen option). This new variable contains the number of unique
+d values of the varlist for each level of the by variable. The new
+d variable is coded missing except for the first record in each
+d group defined by the levels of the by variable. The command is
+d useful for exploring data where the records refer to more than
+d one level, for example longitudinal data where each record refers
+d to a visit by a subject.
+d 
+d 
+d Requires: Stata version 10.1
+d 
+d Distribution-Date: 20200618
+d 
+d Author: Tony Brady
+d Support: email tony@@sealedenvelope.com
+d 
+f u\unique.ado
+f u\unique.sthlp
+e
+S http://fmwww.bc.edu/repec/bocode/g
+N groups.pkg
+D  1 Jul 2022
+U 2
+d 'GROUPS': module to list group frequencies
+d 
+d  groups lists the distinct groups of varlist occurring  in the
+d dataset and their frequencies. groups is a wrapper  for list and
+d offers several handles for controlling the  kinds of frequencies
+d shown and their appearance.
+d 
+d KW:  tabulations
+d KW: list
+d 
+d Requires: Stata version 8.0
+d 
+d 
+d Author: Nicholas J. Cox, Durham University
+d Support: email N.J.Cox@@durham.ac.uk
+d 
+d Distribution-Date: 20180224
+d 
+f g\groups.ado
+f g\groups.sthlp
+e
+S http://fmwww.bc.edu/repec/bocode/w
+N winsor2.pkg
+D 18 Jul 2022
+U 3
+d 'WINSOR2': module to winsorize data
+d 
+d    winsor2 can winsorize a varlist, operate with the by prefix,
+d and offers a replace option.
+d 
+d KW: winsor
+d KW: winsorize
+d KW: data management
+d 
+d Requires: Stata version 8
+d 
+d Distribution-Date: 20201125
+d 
+d Author: Yujun Lian, Department of Finance, Sun Yat-Sen University, China
+d Support: email arlionn@@163.com
+d 
+f w\winsor2.ado
+f w\winsor2.sthlp
+e

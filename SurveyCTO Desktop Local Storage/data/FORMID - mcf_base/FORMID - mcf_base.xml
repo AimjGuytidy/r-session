@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:odk="http://www.opendatakit.org/xforms" xmlns:orx="http://openrosa.org/xforms/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>MCF Baseline</h:title>
+    <model>
+      <itext>
+        <translation lang=" kinyarwanda">
+          <text id="/mcf_base/marital_status/2:label">
+            <value>ndingaragu/inkumi</value>
+          </text>
+          <text id="/mcf_base/unemployment:label">
+            <value>q1 Kuki nta kazi ufite?</value>
+          </text>
+          <text id="/mcf_base/menu/5:label">
+            <value>boroshete</value>
+          </text>
+          <text id="/mcf_base/education_level/4:label">
+            <value>p4</value>
+          </text>
+          <text id="/mcf_base/gender/1:label">
+            <value>Gabo</value>
+          </text>
+          <text id="/mcf_base/education_level:label">
+            <value>q2</value>
+          </text>
+          <text id="/mcf_base/height:label">
+            <value>q3 Ureshya gute?</value>
+          </text>
+          <text id="/mcf_base/marital_status/1:label">
+            <value>narashatse</value>
+          </text>
+          <text id="/mcf_base/age:label">
+            <value>q2 Ufite imyaka ingahe?</value>
+          </text>
+          <text id="/mcf_base/education_level/6:label">
+            <value>p6</value>
+          </text>
+          <text id="/mcf_base/menu/1:label">
+            <value>ifiriti</value>
+          </text>
+          <text id="/mcf_base/menu/2:label">
+            <value>isupu</value>
+          </text>
+          <text id="/mcf_base/gender:label">
+            <value>Witwande</value>
+          </text>
+          <text id="/mcf_base/education_level/5:label">
+            <value>p5</value>
+          </text>
+          <text id="/mcf_base/menu:label">
+            <value>q4 murarya iki?</value>
+          </text>
+          <text id="/mcf_base/menu/3:label">
+            <value>umuceri</value>
+          </text>
+          <text id="/mcf_base/education_level/2:label">
+            <value>p2</value>
+          </text>
+          <text id="/mcf_base/education_level/3:label">
+            <value>p3</value>
+          </text>
+          <text id="/mcf_base/education_level/1:label">
+            <value>p1</value>
+          </text>
+          <text id="/mcf_base/gender/2:label">
+            <value>Gore</value>
+          </text>
+          <text id="/mcf_base/marital_status/3:label">
+            <value>umupfakazi</value>
+          </text>
+          <text id="/mcf_base/menu/4:label">
+            <value>noodles</value>
+          </text>
+          <text id="/mcf_base/marital_status:label">
+            <value>q3 warashatse?</value>
+          </text>
+        </translation>
+        <translation lang=" engl">
+          <text id="/mcf_base/marital_status/2:label">
+            <value>single</value>
+          </text>
+          <text id="/mcf_base/unemployment:label">
+            <value>q1 Why are you unemployed?</value>
+          </text>
+          <text id="/mcf_base/menu/5:label">
+            <value>brochettes</value>
+          </text>
+          <text id="/mcf_base/education_level/4:label">
+            <value>p4</value>
+          </text>
+          <text id="/mcf_base/gender/1:label">
+            <value>Male</value>
+          </text>
+          <text id="/mcf_base/education_level:label">
+            <value>q2</value>
+          </text>
+          <text id="/mcf_base/height:label">
+            <value>q3 How tall are you?</value>
+          </text>
+          <text id="/mcf_base/marital_status/1:label">
+            <value>married</value>
+          </text>
+          <text id="/mcf_base/age:label">
+            <value>q2 How old are you?</value>
+          </text>
+          <text id="/mcf_base/education_level/6:label">
+            <value>p6</value>
+          </text>
+          <text id="/mcf_base/menu/1:label">
+            <value>chips</value>
+          </text>
+          <text id="/mcf_base/menu/2:label">
+            <value>soup</value>
+          </text>
+          <text id="/mcf_base/gender:label">
+            <value>q1 What's your gender?</value>
+          </text>
+          <text id="/mcf_base/education_level/5:label">
+            <value>p5</value>
+          </text>
+          <text id="/mcf_base/menu:label">
+            <value>q4 what are you ordering?</value>
+          </text>
+          <text id="/mcf_base/menu/3:label">
+            <value>rice</value>
+          </text>
+          <text id="/mcf_base/education_level/2:label">
+            <value>p2</value>
+          </text>
+          <text id="/mcf_base/education_level/3:label">
+            <value>p3</value>
+          </text>
+          <text id="/mcf_base/education_level/1:label">
+            <value>p1</value>
+          </text>
+          <text id="/mcf_base/gender/2:label">
+            <value>Female</value>
+          </text>
+          <text id="/mcf_base/marital_status/3:label">
+            <value>widowed</value>
+          </text>
+          <text id="/mcf_base/menu/4:label">
+            <value>noodles</value>
+          </text>
+          <text id="/mcf_base/marital_status:label">
+            <value>q3 Are you married?</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <mcf_base id="mcf_base" version="2205301337">
+          <starttime/>
+          <endtime/>
+          <deviceid/>
+          <subscriberid/>
+          <simid/>
+          <devicephonenum/>
+          <username/>
+          <text_audit/>
+          <duration/>
+          <gender/>
+          <education_level/>
+          <marital_status/>
+          <menu/>
+          <unemployment/>
+          <age/>
+          <height/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </mcf_base>
+      </instance>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/mcf_base/starttime" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/mcf_base/endtime" type="dateTime"/>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/mcf_base/deviceid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="subscriberid" nodeset="/mcf_base/subscriberid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="simserial" nodeset="/mcf_base/simid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="phonenumber" nodeset="/mcf_base/devicephonenum" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="username" nodeset="/mcf_base/username" type="string"/>
+      <bind appearance="class=textAudit;p=100" nodeset="/mcf_base/text_audit" type="binary"/>
+      <bind calculate="duration()" nodeset="/mcf_base/duration" type="string"/>
+      <bind nodeset="/mcf_base/gender" type="select1"/>
+      <bind nodeset="/mcf_base/education_level" type="select1"/>
+      <bind nodeset="/mcf_base/marital_status" type="select1"/>
+      <bind nodeset="/mcf_base/menu" type="select"/>
+      <bind nodeset="/mcf_base/unemployment" type="string"/>
+      <bind nodeset="/mcf_base/age" type="int"/>
+      <bind nodeset="/mcf_base/height" type="decimal"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/mcf_base/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <select1 ref="/mcf_base/gender">
+      <label ref="jr:itext('/mcf_base/gender:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base/gender/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/gender/2:label')"/>
+        <value>2</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base/education_level">
+      <label ref="jr:itext('/mcf_base/education_level:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base/education_level/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/education_level/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/education_level/3:label')"/>
+        <value>3</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/education_level/4:label')"/>
+        <value>4</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/education_level/5:label')"/>
+        <value>5</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/education_level/6:label')"/>
+        <value>6</value>
+      </item>
+    </select1>
+    <select1 ref="/mcf_base/marital_status">
+      <label ref="jr:itext('/mcf_base/marital_status:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base/marital_status/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/marital_status/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/marital_status/3:label')"/>
+        <value>3</value>
+      </item>
+    </select1>
+    <select ref="/mcf_base/menu">
+      <label ref="jr:itext('/mcf_base/menu:label')"/>
+      <item>
+        <label ref="jr:itext('/mcf_base/menu/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/menu/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/menu/3:label')"/>
+        <value>3</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/menu/4:label')"/>
+        <value>4</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/mcf_base/menu/5:label')"/>
+        <value>5</value>
+      </item>
+    </select>
+    <input ref="/mcf_base/unemployment">
+      <label ref="jr:itext('/mcf_base/unemployment:label')"/>
+    </input>
+    <input ref="/mcf_base/age">
+      <label ref="jr:itext('/mcf_base/age:label')"/>
+    </input>
+    <input ref="/mcf_base/height">
+      <label ref="jr:itext('/mcf_base/height:label')"/>
+    </input>
+  </h:body>
+</h:html>

@@ -1,0 +1,153 @@
+[info] 2022-06-01T13:13:23.340Z - =====================================================================
+[info] 2022-06-01T13:13:23.342Z -  SurveyCTO Desktop 2.71.3
+[info] 2022-06-01T13:13:23.343Z -  OS: Windows_NT 10.0.19044 win32
+[info] 2022-06-01T13:13:23.344Z -  Date/time: Wed Jun 01 2022 15:13:23 GMT+0200 (South Africa Standard Time)
+[info] 2022-06-01T13:13:23.344Z - =====================================================================
+[info] 2022-06-01T13:13:23.424Z - Starting SSO listener...
+[info] 2022-06-01T13:13:23.429Z - SSO listener started.
+[warn] 2022-06-01T13:17:17.389Z - Received error Network Error while accessing https://aimjguy.surveycto.com/formList
+[info] 2022-06-01T13:17:37.195Z - Sync job started running at:  2022-06-01T15:17:37+02:00
+[warn] 2022-06-01T13:17:47.140Z - Received error Network Error while accessing https://aimjguy.surveycto.com/forms/mcf_base/workbook/uuids-info?submissionsPattern=all&fieldsPattern=all&reviewStatus=approved,rejected,none&fetchInBatches=true&latestUUID=uuid:084227c1-e932-4ce0-8bfe-14db714c0862
+[warn] 2022-06-01T13:17:49.355Z - Received error Network Error while accessing https://aimjguy.surveycto.com/forms/mcf_base/workbook/uuids-info?submissionsPattern=all&fieldsPattern=all&reviewStatus=approved,rejected,none&fetchInBatches=true&latestUUID=uuid:084227c1-e932-4ce0-8bfe-14db714c0862
+[warn] 2022-06-01T13:17:50.360Z - Received error Network Error while accessing https://aimjguy.surveycto.com/forms/mcf_base/workbook/uuids-info?submissionsPattern=all&fieldsPattern=all&reviewStatus=approved,rejected,none&fetchInBatches=true&latestUUID=uuid:084227c1-e932-4ce0-8bfe-14db714c0862
+[warn] 2022-06-01T13:17:51.378Z - Received error Network Error while accessing https://aimjguy.surveycto.com/forms/mcf_base/workbook/uuids-info?submissionsPattern=all&fieldsPattern=all&reviewStatus=approved,rejected,none&fetchInBatches=true&latestUUID=uuid:084227c1-e932-4ce0-8bfe-14db714c0862
+[warn] 2022-06-01T13:17:52.385Z - Received error Network Error while accessing https://aimjguy.surveycto.com/forms/mcf_base/workbook/uuids-info?submissionsPattern=all&fieldsPattern=all&reviewStatus=approved,rejected,none&fetchInBatches=true&latestUUID=uuid:084227c1-e932-4ce0-8bfe-14db714c0862
+[warn] 2022-06-01T13:17:55.883Z - Received error Network Error while accessing https://aimjguy.surveycto.com/forms/mcf_base/workbook/uuids-info?submissionsPattern=all&fieldsPattern=all&reviewStatus=approved,rejected,none&fetchInBatches=true&latestUUID=uuid:084227c1-e932-4ce0-8bfe-14db714c0862
+[warn] 2022-06-01T13:17:58.388Z - Received error Network Error while accessing https://aimjguy.surveycto.com/forms/mcf_base/workbook/uuids-info?submissionsPattern=all&fieldsPattern=all&reviewStatus=approved,rejected,none&fetchInBatches=true&latestUUID=uuid:084227c1-e932-4ce0-8bfe-14db714c0862
+[error] 2022-06-01T13:18:09.708Z - Uncaught Error: Uncaught The "fd" argument must be of type number. Received type undefined file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js 1 822234 Error: Uncaught The "fd" argument must be of type number. Received type undefined
+    at EventEmitter.o.on (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:837713)
+    at EventEmitter.emit (events.js:182:13)
+[error] 2022-06-01T13:18:10.312Z - Uncaught Error: Uncaught The "fd" argument must be of type number. Received type undefined file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js 1 822234 Error: Uncaught The "fd" argument must be of type number. Received type undefined
+    at EventEmitter.o.on (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:837713)
+    at EventEmitter.emit (events.js:182:13)
+[error] 2022-06-01T13:18:10.941Z - Uncaught Error: Uncaught The "fd" argument must be of type number. Received type undefined file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js 1 822234 Error: Uncaught The "fd" argument must be of type number. Received type undefined
+    at EventEmitter.o.on (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:837713)
+    at EventEmitter.emit (events.js:182:13)
+[info] 2022-06-02T00:42:21.934Z - Main window is about to close. Stopping SSO Listener and Local WiFi...
+[info] 2022-06-02T00:42:21.935Z - Stopping SSO listener...
+[info] 2022-06-02T00:42:21.937Z - About to stop Local WiFi.
+[info] 2022-06-02T00:42:21.937Z - Failure stopping Local WiFi:  null
+[info] 2022-06-02T09:46:00.773Z - =====================================================================
+[info] 2022-06-02T09:46:00.778Z -  SurveyCTO Desktop 2.71.3
+[info] 2022-06-02T09:46:00.779Z -  OS: Windows_NT 10.0.19044 win32
+[info] 2022-06-02T09:46:00.784Z -  Date/time: Thu Jun 02 2022 11:46:00 GMT+0200 (South Africa Standard Time)
+[info] 2022-06-02T09:46:00.784Z - =====================================================================
+[info] 2022-06-02T09:46:00.944Z - Starting SSO listener...
+[info] 2022-06-02T09:46:00.950Z - SSO listener started.
+[error] 2022-06-02T09:46:46.712Z - Failure logging in:  Error: You entered an incorrect email address or password.
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:296986
+    at Generator.next (<anonymous>)
+    at o (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28168)
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28270
+[error] 2022-06-02T09:47:00.267Z - Failure logging in:  Error: You entered an incorrect email address or password.
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:296986
+    at Generator.next (<anonymous>)
+    at o (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28168)
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28270
+[error] 2022-06-02T09:47:46.155Z - Failure logging in:  Error: You entered an incorrect email address or password.
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:296986
+    at Generator.next (<anonymous>)
+    at o (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28168)
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28270
+[error] 2022-06-02T09:48:01.584Z - Failure logging in:  Error: Sorry, we received too many failed login attempts from you. Please wait 10 minutes before trying again.
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:296986
+    at Generator.next (<anonymous>)
+    at o (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28168)
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28270
+[error] 2022-06-02T09:49:12.217Z - Failure logging in:  Error: Sorry, we received too many failed login attempts from you. Please wait 9 minutes before trying again.
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:296986
+    at Generator.next (<anonymous>)
+    at o (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28168)
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28270
+[error] 2022-06-02T09:55:37.582Z - Failure logging in:  Error: Sorry, we received too many failed login attempts from you. Please wait 3 minutes before trying again.
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:296986
+    at Generator.next (<anonymous>)
+    at o (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28168)
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28270
+[error] 2022-06-02T09:57:18.965Z - Failure logging in:  Error: Sorry, we received too many failed login attempts from you. Please wait 1 minute before trying again.
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:296986
+    at Generator.next (<anonymous>)
+    at o (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28168)
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28270
+[info] 2022-06-02T09:59:28.239Z - Sync job started running at:  2022-06-02T11:59:28+02:00
+[info] 2022-06-02T10:03:23.139Z - Sync job started running at:  2022-06-02T12:03:23+02:00
+[info] 2022-06-03T04:19:13.074Z - Main window is about to close. Stopping SSO Listener and Local WiFi...
+[info] 2022-06-03T04:19:13.090Z - Stopping SSO listener...
+[info] 2022-06-03T04:19:13.094Z - About to stop Local WiFi.
+[info] 2022-06-03T04:19:13.095Z - Failure stopping Local WiFi:  null
+[info] 2022-06-14T06:53:08.167Z - =====================================================================
+[info] 2022-06-14T06:53:08.170Z -  SurveyCTO Desktop 2.71.3
+[info] 2022-06-14T06:53:08.170Z -  OS: Windows_NT 10.0.19044 win32
+[info] 2022-06-14T06:53:08.181Z -  Date/time: Tue Jun 14 2022 08:53:08 GMT+0200 (South Africa Standard Time)
+[info] 2022-06-14T06:53:08.182Z - =====================================================================
+[info] 2022-06-14T06:53:08.268Z - Starting SSO listener...
+[info] 2022-06-14T06:53:08.272Z - SSO listener started.
+[info] 2022-06-14T06:54:00.364Z - Error logging in using access code. { Error: Request failed with status code 400
+    at createError (C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\node_modules\axios\lib\core\settle.js:18:12)
+    at XMLHttpRequest.handleLoad (C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\node_modules\axios\lib\adapters\xhr.js:59:7)
+  config:
+   { adapter: [Function: xhrAdapter],
+     transformRequest: { '0': [Function: transformRequest] },
+     transformResponse: { '0': [Function: transformResponse] },
+     timeout: 0,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     validateStatus: [Function: validateStatus],
+     headers:
+      { Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Authentication-Token': 'JSESSIONID=A4E660C043A5EA53232B6669694B6D40' },
+     method: 'post',
+     url: 'https://veconomics.surveycto.com/login/use-access-code',
+     data:
+      'u=veconomics&s=veconomics&csrf_token=wt2YiJcwyEKuYuZT0Vg2GGHb5w3dacZ6' },
+  request: XMLHttpRequest {},
+  response:
+   { data: { error: [Object] },
+     status: 400,
+     statusText: '',
+     headers:
+      { 'content-security-policy': 'frame-ancestors \'self\' *.surveycto.com',
+        'content-encoding': 'gzip',
+        'x-content-type-options': 'nosniff',
+        server: 'Apache/2.4.53 () OpenSSL/1.0.2k-fips mod_jk/1.2.42',
+        date: 'Tue, 14 Jun 2022 06:54:00 GMT',
+        'x-frame-options': 'SAMEORIGIN',
+        'content-type': 'application/json;charset=UTF-8',
+        status: '400',
+        'strict-transport-security': 'max-age=63072000; includeSubDomains; preload',
+        vary: 'Accept-Encoding',
+        'x-xss-protection': '1; mode=block' },
+     config:
+      { adapter: [Function: xhrAdapter],
+        transformRequest: [Object],
+        transformResponse: [Object],
+        timeout: 0,
+        xsrfCookieName: 'XSRF-TOKEN',
+        xsrfHeaderName: 'X-XSRF-TOKEN',
+        maxContentLength: -1,
+        validateStatus: [Function: validateStatus],
+        headers: [Object],
+        method: 'post',
+        url: 'https://veconomics.surveycto.com/login/use-access-code',
+        data:
+         'u=veconomics&s=veconomics&csrf_token=wt2YiJcwyEKuYuZT0Vg2GGHb5w3dacZ6' },
+     request: XMLHttpRequest {} } }
+[error] 2022-06-14T06:54:00.364Z - Failure logging in:  Error: I'm sorry but this code is invalid. Please copy and paste is carefully from your email and try again.
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:297504
+    at Generator.throw (<anonymous>)
+    at o (file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28168)
+    at file:///C:/Users/LENOVO/AppData/Local/Programs/SurveyCTODesktop/resources/app.asar/dist/electron/renderer.js:1:28295
+[info] 2022-06-27T08:30:12.048Z - =====================================================================
+[info] 2022-06-27T08:30:12.053Z -  SurveyCTO Desktop 2.71.3
+[info] 2022-06-27T08:30:12.053Z -  OS: Windows_NT 10.0.22000 win32
+[info] 2022-06-27T08:30:12.058Z -  Date/time: Mon Jun 27 2022 10:30:12 GMT+0200 (South Africa Standard Time)
+[info] 2022-06-27T08:30:12.058Z - =====================================================================
+[info] 2022-06-27T08:30:12.174Z - Starting SSO listener...
+[info] 2022-06-27T08:30:12.182Z - SSO listener started.
+[info] 2022-06-27T10:15:25.376Z - Main window is about to close. Stopping SSO Listener and Local WiFi...
+[info] 2022-06-27T10:15:25.388Z - Stopping SSO listener...
+[info] 2022-06-27T10:15:25.395Z - About to stop Local WiFi.
+[info] 2022-06-27T10:15:25.396Z - Failure stopping Local WiFi:  null

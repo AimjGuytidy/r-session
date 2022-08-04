@@ -1,0 +1,163 @@
+[info] 2022-06-01T13:13:21.822Z - Initializing i18n.
+[info] 2022-06-01T13:13:21.829Z - About to launch first instance of SurveyCTO Desktop...
+[info] 2022-06-01T13:13:21.841Z - Options directory:  C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-01T13:13:21.841Z - Options directory:  C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-01T13:13:21.841Z - Serving local documentation from C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-01T13:13:21.842Z - Detecting Java. Command line: java -version.
+[info] 2022-06-01T13:13:21.851Z - Error detecting java:  { Error: spawn java ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:232:19)
+    at onErrorNT (internal/child_process.js:407:16)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:749:11)
+    at startup (internal/bootstrap/node.js:282:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:759:3)
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn java',
+  path: 'java',
+  spawnargs: [ '-version' ],
+  cmd: 'java -version' }
+[info] 2022-06-01T13:13:21.851Z - STDOUT from Java detection:  
+[info] 2022-06-01T13:13:21.851Z - STDERR from Java detection:  
+[warn] 2022-06-01T13:13:21.852Z - Error finding Java:  Error: Java not found
+    at C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\main.js:12:23907
+    at exithandler (child_process.js:306:5)
+    at ChildProcess.errorhandler (child_process.js:318:5)
+    at ChildProcess.emit (events.js:182:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:238:12)
+    at onErrorNT (internal/child_process.js:407:16)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:749:11)
+    at startup (internal/bootstrap/node.js:282:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:759:3)
+[info] 2022-06-01T13:13:21.896Z - About to start renderer process...
+[info] 2022-06-01T13:13:23.354Z - Received message from renderer process: mainWindowLoaded
+[info] 2022-06-01T13:13:23.354Z - Automatically checking for updates...
+[info] 2022-06-01T13:13:23.354Z - Checking for update
+[info] 2022-06-01T13:13:23.355Z - Configured timer to check for updates every 24 hours.
+[info] 2022-06-01T13:13:23.384Z - Generated new staging user ID: 74591a1f-0676-5949-ae14-54f63a0827d6
+[info] 2022-06-01T13:13:25.666Z - Update for version 2.71.3 is not available (latest version: 2.71.3, downgrade is disallowed).
+[info] 2022-06-01T13:13:25.666Z - No update available.
+[info] 2022-06-02T00:42:21.959Z - All windows have been closed.
+[info] 2022-06-02T00:42:21.982Z - Closed main window.
+[info] 2022-06-02T09:45:58.595Z - Initializing i18n.
+[info] 2022-06-02T09:45:58.611Z - About to launch first instance of SurveyCTO Desktop...
+[info] 2022-06-02T09:45:58.634Z - Options directory:  C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-02T09:45:58.634Z - Options directory:  C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-02T09:45:58.635Z - Serving local documentation from C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-02T09:45:58.635Z - Detecting Java. Command line: java -version.
+[info] 2022-06-02T09:45:58.645Z - Error detecting java:  { Error: spawn java ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:232:19)
+    at onErrorNT (internal/child_process.js:407:16)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:749:11)
+    at startup (internal/bootstrap/node.js:282:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:759:3)
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn java',
+  path: 'java',
+  spawnargs: [ '-version' ],
+  cmd: 'java -version' }
+[info] 2022-06-02T09:45:58.645Z - STDOUT from Java detection:  
+[info] 2022-06-02T09:45:58.645Z - STDERR from Java detection:  
+[warn] 2022-06-02T09:45:58.646Z - Error finding Java:  Error: Java not found
+    at C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\main.js:12:23907
+    at exithandler (child_process.js:306:5)
+    at ChildProcess.errorhandler (child_process.js:318:5)
+    at ChildProcess.emit (events.js:182:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:238:12)
+    at onErrorNT (internal/child_process.js:407:16)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:749:11)
+    at startup (internal/bootstrap/node.js:282:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:759:3)
+[info] 2022-06-02T09:45:58.707Z - About to start renderer process...
+[info] 2022-06-02T09:46:00.800Z - Received message from renderer process: mainWindowLoaded
+[info] 2022-06-02T09:46:00.800Z - Automatically checking for updates...
+[info] 2022-06-02T09:46:00.801Z - Checking for update
+[info] 2022-06-02T09:46:00.802Z - Configured timer to check for updates every 24 hours.
+[info] 2022-06-02T09:46:03.340Z - Update for version 2.71.3 is not available (latest version: 2.71.3, downgrade is disallowed).
+[info] 2022-06-02T09:46:03.341Z - No update available.
+[info] 2022-06-03T04:19:13.146Z - All windows have been closed.
+[info] 2022-06-03T04:19:13.207Z - Closed main window.
+[info] 2022-06-14T06:53:06.470Z - Initializing i18n.
+[info] 2022-06-14T06:53:06.476Z - About to launch first instance of SurveyCTO Desktop...
+[info] 2022-06-14T06:53:06.487Z - Options directory:  C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-14T06:53:06.487Z - Options directory:  C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-14T06:53:06.487Z - Serving local documentation from C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-14T06:53:06.488Z - Detecting Java. Command line: java -version.
+[info] 2022-06-14T06:53:06.493Z - Error detecting java:  { Error: spawn java ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:232:19)
+    at onErrorNT (internal/child_process.js:407:16)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:749:11)
+    at startup (internal/bootstrap/node.js:282:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:759:3)
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn java',
+  path: 'java',
+  spawnargs: [ '-version' ],
+  cmd: 'java -version' }
+[info] 2022-06-14T06:53:06.493Z - STDOUT from Java detection:  
+[info] 2022-06-14T06:53:06.493Z - STDERR from Java detection:  
+[warn] 2022-06-14T06:53:06.493Z - Error finding Java:  Error: Java not found
+    at C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\main.js:12:23907
+    at exithandler (child_process.js:306:5)
+    at ChildProcess.errorhandler (child_process.js:318:5)
+    at ChildProcess.emit (events.js:182:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:238:12)
+    at onErrorNT (internal/child_process.js:407:16)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:749:11)
+    at startup (internal/bootstrap/node.js:282:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:759:3)
+[info] 2022-06-14T06:53:06.564Z - About to start renderer process...
+[info] 2022-06-14T06:53:08.187Z - Received message from renderer process: mainWindowLoaded
+[info] 2022-06-14T06:53:08.187Z - Automatically checking for updates...
+[info] 2022-06-14T06:53:08.188Z - Checking for update
+[info] 2022-06-14T06:53:08.188Z - Configured timer to check for updates every 24 hours.
+[info] 2022-06-14T06:53:10.642Z - Update for version 2.71.3 is not available (latest version: 2.71.3, downgrade is disallowed).
+[info] 2022-06-14T06:53:10.642Z - No update available.
+[info] 2022-06-27T08:30:09.254Z - Initializing i18n.
+[info] 2022-06-27T08:30:09.263Z - About to launch first instance of SurveyCTO Desktop...
+[info] 2022-06-27T08:30:09.284Z - Options directory:  C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-27T08:30:09.284Z - Options directory:  C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-27T08:30:09.284Z - Serving local documentation from C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\static\documentation
+[info] 2022-06-27T08:30:09.285Z - Detecting Java. Command line: java -version.
+[info] 2022-06-27T08:30:09.292Z - Error detecting java:  { Error: spawn java ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:232:19)
+    at onErrorNT (internal/child_process.js:407:16)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:749:11)
+    at startup (internal/bootstrap/node.js:282:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:759:3)
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn java',
+  path: 'java',
+  spawnargs: [ '-version' ],
+  cmd: 'java -version' }
+[info] 2022-06-27T08:30:09.292Z - STDOUT from Java detection:  
+[info] 2022-06-27T08:30:09.292Z - STDERR from Java detection:  
+[warn] 2022-06-27T08:30:09.292Z - Error finding Java:  Error: Java not found
+    at C:\Users\LENOVO\AppData\Local\Programs\SurveyCTODesktop\resources\app.asar\dist\electron\main.js:12:23907
+    at exithandler (child_process.js:306:5)
+    at ChildProcess.errorhandler (child_process.js:318:5)
+    at ChildProcess.emit (events.js:182:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:238:12)
+    at onErrorNT (internal/child_process.js:407:16)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:749:11)
+    at startup (internal/bootstrap/node.js:282:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:759:3)
+[info] 2022-06-27T08:30:09.422Z - About to start renderer process...
+[info] 2022-06-27T08:30:12.076Z - Received message from renderer process: mainWindowLoaded
+[info] 2022-06-27T08:30:12.076Z - Automatically checking for updates...
+[info] 2022-06-27T08:30:12.077Z - Checking for update
+[info] 2022-06-27T08:30:12.078Z - Configured timer to check for updates every 24 hours.
+[info] 2022-06-27T08:30:17.527Z - Update for version 2.71.3 is not available (latest version: 2.71.3, downgrade is disallowed).
+[info] 2022-06-27T08:30:17.528Z - No update available.
+[info] 2022-06-27T10:15:25.518Z - All windows have been closed.
+[info] 2022-06-27T10:15:25.565Z - Closed main window.
